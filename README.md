@@ -2,7 +2,7 @@
 [DEMO LINK](https://anastasia4sik.github.io/BIKE-landing/)
 
 ## Introduction
-Hello, this is a website layout for MyBike. This layout uses the features that SCSS provides us, including the possibility of nesting, convenient use of variables, mixins. Also knowledge of reset.css and normalize.css. For convenient positioning on different displays, a grid was used. Also, in the work we have used the BEM methodology. Additional advantages and points to which attention was paid are interesting animation and a convenient user-friendly interface.
+Hello, this is a website layout for MyBike. This layout uses the features that SCSS provides us, including the possibility of nesting, convenient use of variables, mixins. Also knowledge of reset.css and normalize.css. For convenient positioning on different displays, a grid was used. Also, in the work we have used the BEM methodology. Additional advantages and points to which attention was paid are interesting animation and a convenient user-friendly interface. Enjoy!
 
 ## Technologies
 * HTML
